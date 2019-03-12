@@ -1,0 +1,41 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Multinode_PCB_v3
+*Date=17:55:43
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;10k;THT;17.3128;-19.9279;90;Bottom;R3
+2;;;17.3334;-36.3195;0;Bottom;TXT1
+3;;;27.4729;-49.1379;0;Bottom;Hole1
+4;;;23.7212;-38.7586;0;Bottom;TXT1
+5;;;10.9199;-38.8932;0;Bottom;TXT1
+6;;THT;26.2028;-40.2479;0;Bottom;OLED
+7;;THT;13.5028;-40.2479;0;Bottom;SW1
+8;10k;THT;13.5028;-19.9279;90;Bottom;R2
+9;;THT;17.3128;-40.2479;0;Bottom;SW2
+10;;;13.5431;-36.27;0;Bottom;TXT1
+11;;;23.5265;-44.0521;0;Bottom;TXT1
+12;;THT;21.1228;-40.2479;0;Bottom;BMx
+13;;;2.07278;-49.1379;0;Bottom;Hole2
+14;;;10.9162;-36.2069;0;Bottom;TXT1
+15;;;23.6255;-36.0319;0;Bottom;TXT1
+16;;;5.74876;-41.3755;0;Bottom;TXT1
+17;;THT;8.42278;-38.9779;0;Bottom;PIR
+18;;;10.9499;-41.497;0;Bottom;TXT1
+19;;THT;3.34278;-38.9779;0;Bottom;DHT
+20;4.7k;THT;8.42278;-19.9279;90;Bottom;R1
+21;;;2.07278;-2.14782;0;Bottom;Hole4
+22;;;14.7724;-17.7151;0;Bottom;WeMos D1 Mini
+23;;;27.4729;-2.14782;0;Bottom;Hole3
+24;;;5.88301;-36.2266;0;Bottom;TXT1
+25;;;5.64694;-38.7494;0;Bottom;TXT1
+26;;;23.6631;-41.3658;0;Bottom;TXT1
